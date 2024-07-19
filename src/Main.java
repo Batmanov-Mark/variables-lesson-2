@@ -109,6 +109,7 @@ public class Main {
         double KristinaAfterMonth = KristinaNow * 1.1;
 
 
+
         int MashaIncomeYear =(int) (MashaAfterMonth - MashaNow)*12;
         int DenisIncomeYear=(int) (DenisAfterMonth-DenisNow)*12;
         int KristinaIncomeYear =(int) (KristinaAfterMonth-KristinaNow)*12;
