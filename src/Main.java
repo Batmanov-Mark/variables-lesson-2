@@ -20,12 +20,20 @@ public class Main {
         //Task 2
         System.out.println("Task 2");
         float var1 = 27.12F;
-        float var3= 2.786F;
-        short var4= 569;
-        short var5= -159;
-        long var2= 987_678_965_549L;
+        float var2= 2.786F;
+        short var3= 569;
+        short var4= -159;
+        long var5= 987_678_965_549L;
         short var6= 27897;
         byte var7= 67;
+
+        System.out.println(var1 + "= var float ");
+        System.out.println(var2 + "= var float ");
+        System.out.println(var3 + "= var short ");
+        System.out.println(var4 + "= var short ");
+        System.out.println(var5 + "= var long ");
+        System.out.println(var6 + "= var short ");
+        System.out.println(var7 + "= var byte ");
 
         //Task 3
         System.out.println("Task 3");
