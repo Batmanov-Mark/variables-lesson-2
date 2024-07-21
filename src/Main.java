@@ -35,6 +35,7 @@ public class Main {
         System.out.println(var6 + "= var short ");
         System.out.println(var7 + "= var byte ");
 
+
         //Task 3
         System.out.println("Task 3");
         short teacher1 = 23;
